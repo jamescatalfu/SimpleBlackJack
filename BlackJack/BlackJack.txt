@@ -1,0 +1,23 @@
+				            Welcome to Blackjack!
+
+				                  Objective
+In this simplified version of the classic casino card game, you will play against the
+dealer to see who can get closest to 21 without going over.
+ 
+                                   Scoring
+Cards numbered 2 - 10 are worth their face value, face cards(jacks, queens, and kings) are
+worth 10 and aces are worth 11. If the player or the dealer goes over 21, it will be a
+bust and the opposite player will automatically win. If an ace is dealt with a 10 card or
+any face card, it is a Blackjack which is an automatic win, unless the opposite player
+also has Blackjack in which case it will be a draw. The number of wins for each player
+will also be displayed at the bottom of the scoreboard at the beginning of each person's
+turn and the end of each game.
+
+                                 How to Play
+The player and the dealer will be dealt two cards each. The current score of the dealer
+and the player will be shown at the beginning of each hand. The player will go first. The
+player will be shown its hand and will be presented with the option to hit or stand. If
+hit is chosen, the player will be dealt another card, and the new score will be
+determined. If stand is chosen, the current score will be saved and the dealer's turn will
+begin. The dealer is required to hit as long as the score is less than 16. The dealer must
+stay once the current score gets to 16 or higher.
